@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Geet</string>
+    <string name="title_home">Home</string>
+    <string name="title_songs">Songs</string>
+    <string name="title_albums">Albums</string>
+    <string name="title_playlists">Playlists</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="settings">Settings</string>
+</resources>

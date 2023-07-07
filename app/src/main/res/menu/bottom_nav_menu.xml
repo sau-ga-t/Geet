@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/outline_music_note_24"
+        android:title="@string/title_songs" />
+
+    <item
+        android:id="@+id/navigation_dashboard"
+        android:icon="@drawable/outline_album_24"
+        android:title="@string/title_albums" />
+
+    <item
+        android:id="@+id/navigation_notifications"
+        android:icon="@drawable/outline_queue_music_24"
+        android:title="@string/title_playlists" />
+
+    <item
+        android:id="@+id/navigation_settings"
+        android:icon="@drawable/outline_settings_24"
+        android:title="@string/settings" />
+
+</menu>
