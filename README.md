@@ -1,21 +1,21 @@
-# Geet 
+# Geet
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Platform](https://img.shields.io/badge/Platform-Android-green.svg)](https://developer.android.com/)
-[![MinSdkVersion](https://img.shields.io/badge/MinSdkVersion-XX-green.svg)](https://developer.android.com/guide/topics/manifest/uses-sdk-element.html#min)
+[![MinSdkVersion](https://img.shields.io/badge/MinSdkVersion-28-blue.svg)](https://developer.android.com/guide/topics/manifest/uses-sdk-element.html#min)
 
-Geet is a **basic** [![](https://img.shields.io/badge/Music_Player-8A2BE2)] that allows you to play and manage your music library on your device.
-It aims to have a user-friendly interface for browsing, searching, and playing songs and should incorporate [Material YOU](). 
+Geet is a **basic** ![](https://img.shields.io/badge/Music_Player-8A2BE2) that allows you to play and manage your music library on your device.
+It aims to have a user-friendly interface for browsing, searching, and playing songs and should incorporate [Material YOU]().
 This app is built using [ExoPlayer](https://exoplayer.dev/), a flexible media player library for Android.
 
 ## Features
 
-- [X]Browse and play songs stored on your device
-- [ ]Create and manage playlists
-- [ ]Play/pause, skip to next/previous, and seek through songs
-- [X]Display song information, including title, artist, and album art
-- [X]Control playback using notification with album art
-- [ ]Customizable user interface
+- [X] Browse and play songs stored on your device
+- [ ] Create and manage playlists
+- [ ] Play/pause, skip to next/previous, and seek through songs
+- [X] Display song information, including title, artist, and album art
+- [X] Control playback using notification with album art
+- [ ] Customizable user interface
 
 ## Requirements
 
